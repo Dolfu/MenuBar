@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CSMenuView">
+        <attr name="logoImage" format="reference|integer" />
+        <attr name="menuImage" format="reference|integer" />
+        <attr name="menuTitle" format="reference|string" />
+        <attr name="menuBackgroundColor" format="reference|integer"/>
+        <attr name="menuTitleFontSize" format="dimension" />
+        <attr name="menuTitleTextColor" format="reference|integer" />
+        <attr name="topBarHeight" format="dimension"/>
+    </declare-styleable>
+</resources>
